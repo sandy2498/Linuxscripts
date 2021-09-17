@@ -7,5 +7,5 @@ do
 	n=`echo "$line" | wc -c`
 	echo "the number of characters in line number $num is $n"
 	num=`expr $num + 1`
-done<$name
+done < $name
 
