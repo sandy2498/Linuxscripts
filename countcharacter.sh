@@ -1,5 +1,5 @@
 #!/bin/bash
-echo"enter the name of a file"
+echo "enter the name of a file"
 read name
 num=1
 while read line
