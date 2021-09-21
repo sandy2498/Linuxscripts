@@ -7,7 +7,7 @@ do
 	result=`expr $sum \* $result`
 	num=`expr $num - 1`
 done
-echo "the factorial of fiven number is $result"
+echo "the factorial of given number is $result"
 
 
 
