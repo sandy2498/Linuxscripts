@@ -4,4 +4,4 @@ read a
 echo "enter the value of b"
 read b
 c=`expr $a + $b`
-echo "sum of $a and $b is $c"
+echo "sum of a and b is $c"
